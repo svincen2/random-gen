@@ -1,0 +1,4 @@
+*.o
+RNG_tester
+/test/test
+
